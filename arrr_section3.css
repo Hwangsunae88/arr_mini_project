@@ -32,6 +32,7 @@
 /* <!-- 박스 사진부분 열맞추기 --> */
 
     .moreItems{display: none;  
+        padding-inline-start: 10px;
         grid-template-columns: 1fr 1fr 1fr 1fr;}
 
     .widthHolder {
