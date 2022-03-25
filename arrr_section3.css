@@ -41,6 +41,7 @@
         -moz-box-sizing: border-box;
         -o-box-sizing: border-box;
         box-sizing: border-box;
+        max-width: 1100px;
     }
     
     .prdList{
@@ -182,5 +183,17 @@
         bottom: 0;
         width: 30px;
         height: 30px;
+    }
+
+   /* media*/
+    @media screen and (max-width: 900px){
+        .prdList{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .moreItems{
+            display: none;  
+            grid-template-columns:1fr 1fr;}
     }
   
