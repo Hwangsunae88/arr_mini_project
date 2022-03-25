@@ -112,6 +112,8 @@
 
     .prdBag:hover img{opacity: 0.7;}
 
+    #loadMore:hover {opacity: 0.7;}
+
 /* <!-- font  --> */
 
     @font-face {
