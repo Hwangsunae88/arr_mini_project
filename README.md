@@ -21,9 +21,9 @@
 
  + **사이트 구현페이지**
    + https://arrr.kr/index.html 메인페이지 (리뷰 부분 제외)
-   +	https://arrr.kr/member/login_intro.html 로그인 안내 페이지 (메인에서 로그인 버튼 누른 후 나오는 페이지 )
-   +	https://arrr.kr/member/login.html?noMemberOrder&returnUrl=%2Fmyshop%2Forder%2Flist.htm 주문조회 페이지(메인에서 주문조회 버튼 누른 후 나오는 페이지)
-   +	https://arrr.kr/about 브랜드 스토리 페이지(메인에서 브랜드스토리 보러가기 버튼 누른 후 나오는 페이지)
+   +	https://arrr.kr/member/login_intro.html 로그인 안내 페이지 
+   +	https://arrr.kr/member/login.html?noMemberOrder&returnUrl=%2Fmyshop%2Forder%2Flist.htm 주문조회 페이지
+   +	https://arrr.kr/about 브랜드 스토리 페이지
   
 + **담당페이지**
   +  Header, Login Info - 헤더, 로그인 인포메이션  / 서유빈
